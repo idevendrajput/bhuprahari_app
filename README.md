@@ -4,6 +4,8 @@
 ## Member Name: Devendra Singh Kanawat
 ## Tools & Technologies Used: Python & Flutter
 
+APK Link: https://drive.google.com/file/d/1uBVlYtXnnaN6hZDqPlAypTdG2bNOXmZ7/view?usp=sharing
+
 1. Introduction
 The Bhuprahari Mobile Application is a cross-platform (Android) solution developed with Flutter, providing a user-friendly interface for land change detection. It enables users to define monitoring areas, trigger supervisions, view historical imagery, and receive real-time notifications about detected geographical changes. This app empowers authorities for proactive land management.
 
