@@ -156,11 +156,7 @@ Scalability (cloud storage).
 
 Offline Capabilities.
 
-![1](https://github.com/user-attachments/assets/562a2e92-ce28-4316-8e5a-4954a96f18bf)
-
-![2](https://github.com/user-attachments/assets/a7b070ca-9b0e-46da-89ab-5628896ac3e9)
-
-![3](https://github.com/user-attachments/assets/7a6df9f1-fd02-4939-863d-27b4016d5b8c)
-
 https://github.com/user-attachments/assets/09615547-79b3-4524-a9aa-d758fafd2c08
+
+![1](https://github.com/user-attachments/assets/562a2e92-ce28-4316-8e5a-4954a96f18bf)  ![2](https://github.com/user-attachments/assets/a7b070ca-9b0e-46da-89ab-5628896ac3e9)  ![3](https://github.com/user-attachments/assets/7a6df9f1-fd02-4939-863d-27b4016d5b8c)
 
