@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275036991203",
+    "project_id": "bhuprahari06",
+    "storage_bucket": "bhuprahari06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275036991203:android:3c1ea18c22b51d95921fd6",
+        "android_client_info": {
+          "package_name": "com.bhuprahari.bhuprahari_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDahww-OaWVukrv96zLnTCMQ7o3TJyjjHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

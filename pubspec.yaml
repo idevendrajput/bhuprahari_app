@@ -1,0 +1,56 @@
+name: bhuprahari_app
+description: A Flutter application for land change detection.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # HTTP client
+  dio:
+  # For GetX for navigation and state management
+  get:
+
+  # Google Maps
+  google_maps_flutter:
+
+  # State management (for simplicity, using basic setState, for complex apps consider provider/bloc)
+  shared_preferences:
+  firebase_core:
+  firebase_messaging:
+
+  # Date formatting
+  intl: ^0.19.0
+
+  # Responsive UI
+  responsive_sizer:
+
+  # Icons (if needed, e.g., for alerts or account)
+  font_awesome_flutter:
+
+  # For logging (if you have a custom Logger class)
+  logger:
+
+  # To create local notifications
+  flutter_local_notifications:
+  dots_indicator:
+
+  cupertino_icons:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+#    - assets/fonts/
+#    - assets/icons/
