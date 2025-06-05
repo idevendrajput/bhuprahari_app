@@ -1,6 +1,6 @@
 # Bhuprahari Mobile Application (Flutter)
 
-## Team: Indivisual
+## Team: Individual
 ## Member Name: Devendra Singh Kanawat
 ## Tools & Technologies Used: Python & Flutter
 
